@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Макет</string>
+    <string name="NameApp">App Name</string>
+    <string name="TextApp">Lorem ipsum dolor sit amet, consectetur</string>
+    <string name="TeamName"><font color="#9240D5">Product of </font><font color="#6300B4"><b>Team Name</b></font></string>
+    <string name="Logged">Log In</string>
+</resources>
