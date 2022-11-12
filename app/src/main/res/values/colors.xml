@@ -8,6 +8,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="violetDark">#6300B4</color>
+    <color name="violetDark60">#996300B4</color>
     <color name="violetMedium">#9240D5</color>
+    <color name="violetMedium40">#669240D5</color>
+    <color name="violetDark50">#806300B4</color>
     <color name="violetLight">#FAEEFF</color>
 </resources>
