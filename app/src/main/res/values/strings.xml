@@ -4,8 +4,8 @@
     <string name="TextApp">Lorem ipsum dolor sit amet, consectetur</string>
     <string name="TeamName"><font color="#9240D5">Product of </font><font color="#6300B4"><b>Team Name</b></font></string>
     <string name="Logged">Log In</string>
-    <string name="EnterEmail">Enter Email / Phone Number</string>
-    <string name="EnterPassword">Password</string>
+    <string name="EnterEmail"><b>Enter Email / Phone Number</b></string>
+    <string name="EnterPassword"><b>Password</b></string>
     <string name="Forget">Forget Password?</string>
     <string name="Login">Login</string>
     <string name="Google">Google</string>
@@ -13,4 +13,12 @@
     <string name="Or">Or</string>
     <string name="Register"><font color="#9240D5">Don’t have an account? Let’s </font><font color="#6300B4"><b>Register</b></font></string>
     <string name="Remember">Remember Password</string>
+    <string name="Congrats">Congrats!</string>
+    <string name="CreateAccount">Account Created\nSuccessfully</string>
+    <string name="Start">Get Started</string>
+    <string name="Reg">Register</string>
+    <string name="FullName"><b>Full Name</b></string>
+    <string name="Confirm"><b>Confirm Password</b></string>
+    <string name="Agree">I agree with terms &amp; conditions</string>
+    <string name="AccountLogin"><font color="#9240D5">Already registered ? Let’s </font><font color="#6300B4"><b>Login</b></font></string>
 </resources>

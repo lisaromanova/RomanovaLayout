@@ -30,8 +30,12 @@
         android:ems="10"
         android:hint="@string/EnterEmail"
         android:inputType="textPersonName"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="@color/violetDark"
         android:textColorHint="@color/violetDark50"
         android:textSize="14sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtHeader" />
@@ -48,8 +52,12 @@
         android:fontFamily="sans-serif"
         android:hint="@string/EnterPassword"
         android:inputType="textPassword"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="@color/violetDark"
         android:textColorHint="@color/violetDark50"
         android:textSize="14sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etNamePhone" />
@@ -69,9 +77,11 @@
 
     <CheckBox
         android:id="@+id/checkRemember"
-        android:layout_width="wrap_content"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
+        android:button="@drawable/checkbox_button"
+        android:padding="10dp"
         android:text="@string/Remember"
         android:textColor="@color/violetDark"
         android:textSize="14sp"
