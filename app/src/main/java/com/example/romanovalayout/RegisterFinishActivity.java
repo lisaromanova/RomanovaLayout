@@ -2,9 +2,10 @@ package com.example.romanovalayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.Activity;
 import android.os.Bundle;
 
-public class RegisterFinishActivity extends AppCompatActivity {
+public class RegisterFinishActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
