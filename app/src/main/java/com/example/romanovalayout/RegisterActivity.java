@@ -110,6 +110,17 @@ public class RegisterActivity extends Activity {
         });
     }
 
+    public void Click(View v) {
+        if (!email.getText().toString().isEmpty() &&
+                !password.getText().toString().isEmpty() &&
+                !name.getText().toString().isEmpty() &&
+                !confirmPassword.getText().toString().isEmpty() &&
+                check.isChecked()) {
+            startActivity(new Intent(RegisterActivity.this, RegisterFinishActivity.class));
+        }
+    }
+
+
     void IsClear(){
         if(!email.getText().toString().isEmpty()&&
                 !password.getText().toString().isEmpty()&&

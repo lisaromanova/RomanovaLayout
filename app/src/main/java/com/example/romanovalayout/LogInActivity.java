@@ -66,6 +66,8 @@ public class LogInActivity extends Activity {
                 IsClear();
             }
         });
+
+
     }
 
     void IsClear(){
